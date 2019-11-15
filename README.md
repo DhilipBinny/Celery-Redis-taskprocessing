@@ -42,11 +42,11 @@ celery -A app.celery worker --loglevel=info
 
 # OUTPUT:
 
-![./2.png](2.png)
+![2.png](./screenshot/2.PNG)
 
-![./3.png](3.png)
+![3.png](./screenshot/3.PNG)
 
-![./4.png](4.png)
+![4.png](./screenshot/4.PNG)
 
-![./5.png](5.png)
+![5.png](./screenshot/5.PNG)
 
