@@ -1,11 +1,12 @@
 Step 1
-```
 Run Redis Server by executing redis-server.exe
-```
+
 Step 2
 ```
-Start python server app.py 
+pip install -r requirements.txt
 ```
+Start python server app.py 
+
 Step 3
 Start Celery server 
 ```
